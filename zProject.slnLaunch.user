@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "zProject.pyproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "frontend\\",
+        "Action": "Start"
+      }
+    ]
+  }
+]
