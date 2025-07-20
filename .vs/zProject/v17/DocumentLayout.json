@@ -3,8 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\Sho\\source\\repos\\zProject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BEC1AF4D-7070-47DE-541E-D6A8B557E3AB}|C:\\Users\\Sho\\source\\repos\\zProject\\frontend|C:\\Users\\Sho\\source\\repos\\zProject\\frontend\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{32F29DD0-06E6-4607-A188-6A7AF17870EB}|zProject.pyproj|C:\\Users\\Sho\\source\\repos\\zProject\\requirements.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{32F29DD0-06E6-4607-A188-6A7AF17870EB}|zProject.pyproj|solutionrelative:requirements.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32F29DD0-06E6-4607-A188-6A7AF17870EB}|zProject.pyproj|C:\\Users\\Sho\\source\\repos\\zProject\\render.yaml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{32F29DD0-06E6-4607-A188-6A7AF17870EB}|zProject.pyproj|solutionrelative:render.yaml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEC1AF4D-7070-47DE-541E-D6A8B557E3AB}|C:\\Users\\Sho\\source\\repos\\zProject\\frontend|c:\\users\\sho\\source\\repos\\zproject\\frontend\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{BEC1AF4D-7070-47DE-541E-D6A8B557E3AB}|C:\\Users\\Sho\\source\\repos\\zProject\\frontend|solutionrelative:frontend\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEC1AF4D-7070-47DE-541E-D6A8B557E3AB}|C:\\Users\\Sho\\source\\repos\\zProject\\frontend|c:\\users\\sho\\source\\repos\\zproject\\frontend\\src\\app.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{BEC1AF4D-7070-47DE-541E-D6A8B557E3AB}|C:\\Users\\Sho\\source\\repos\\zProject\\frontend|solutionrelative:frontend\\src\\app.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32F29DD0-06E6-4607-A188-6A7AF17870EB}|zProject.pyproj|C:\\Users\\Sho\\source\\repos\\zProject\\zProject.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{32F29DD0-06E6-4607-A188-6A7AF17870EB}|zProject.pyproj|solutionrelative:zProject.py||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BEC1AF4D-7070-47DE-541E-D6A8B557E3AB}|C:\\Users\\Sho\\source\\repos\\zProject\\frontend|C:\\Users\\Sho\\source\\repos\\zProject\\frontend\\src\\pages\\login.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
@@ -15,20 +31,8 @@
       "RelativeMoniker": "D:0:0:{BEC1AF4D-7070-47DE-541E-D6A8B557E3AB}|C:\\Users\\Sho\\source\\repos\\zProject\\frontend|solutionrelative:frontend\\src\\pages\\Register.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{32F29DD0-06E6-4607-A188-6A7AF17870EB}|zProject.pyproj|C:\\Users\\Sho\\source\\repos\\zProject\\requirements.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{32F29DD0-06E6-4607-A188-6A7AF17870EB}|zProject.pyproj|solutionrelative:requirements.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{32F29DD0-06E6-4607-A188-6A7AF17870EB}|zProject.pyproj|C:\\Users\\Sho\\source\\repos\\zProject\\render.yaml||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{32F29DD0-06E6-4607-A188-6A7AF17870EB}|zProject.pyproj|solutionrelative:render.yaml||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{32F29DD0-06E6-4607-A188-6A7AF17870EB}|zProject.pyproj|C:\\Users\\Sho\\source\\repos\\zProject\\wsgi.py||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{32F29DD0-06E6-4607-A188-6A7AF17870EB}|zProject.pyproj|solutionrelative:wsgi.py||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{32F29DD0-06E6-4607-A188-6A7AF17870EB}|zProject.pyproj|C:\\Users\\Sho\\source\\repos\\zProject\\zProject.py||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{32F29DD0-06E6-4607-A188-6A7AF17870EB}|zProject.pyproj|solutionrelative:zProject.py||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BEC1AF4D-7070-47DE-541E-D6A8B557E3AB}|C:\\Users\\Sho\\source\\repos\\zProject\\frontend|C:\\Users\\Sho\\source\\repos\\zProject\\frontend\\src\\config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
@@ -50,8 +54,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 12,
+          "SelectedChildIndex": 6,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.js",
+              "DocumentMoniker": "C:\\Users\\Sho\\source\\repos\\zProject\\frontend\\src\\App.js",
+              "RelativeDocumentMoniker": "frontend\\src\\App.js",
+              "ToolTip": "C:\\Users\\Sho\\source\\repos\\zProject\\frontend\\src\\App.js",
+              "RelativeToolTip": "frontend\\src\\App.js",
+              "ViewState": "AgIAAGEAAAAAAAAAAAAowHQAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-07-20T15:36:55.094Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
@@ -70,7 +87,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "wsgi.py",
               "DocumentMoniker": "C:\\Users\\Sho\\source\\repos\\zProject\\wsgi.py",
               "RelativeDocumentMoniker": "wsgi.py",
@@ -82,20 +99,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "requirements.txt",
               "DocumentMoniker": "C:\\Users\\Sho\\source\\repos\\zProject\\requirements.txt",
               "RelativeDocumentMoniker": "requirements.txt",
               "ToolTip": "C:\\Users\\Sho\\source\\repos\\zProject\\requirements.txt",
               "RelativeToolTip": "requirements.txt",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
               "WhenOpened": "2025-07-20T08:53:17.927Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "Register.js",
               "DocumentMoniker": "C:\\Users\\Sho\\source\\repos\\zProject\\frontend\\src\\pages\\Register.js",
               "RelativeDocumentMoniker": "frontend\\src\\pages\\Register.js",
@@ -103,12 +120,11 @@
               "RelativeToolTip": "frontend\\src\\pages\\Register.js",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAEIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-07-20T07:38:52.617Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-20T07:38:52.617Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "config.js",
               "DocumentMoniker": "C:\\Users\\Sho\\source\\repos\\zProject\\frontend\\src\\config.js",
               "RelativeDocumentMoniker": "frontend\\src\\config.js",
@@ -120,7 +136,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "Login.js",
               "DocumentMoniker": "C:\\Users\\Sho\\source\\repos\\zProject\\frontend\\src\\pages\\Login.js",
               "RelativeDocumentMoniker": "frontend\\src\\pages\\Login.js",
@@ -128,12 +144,11 @@
               "RelativeToolTip": "frontend\\src\\pages\\Login.js",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-07-20T07:36:40.609Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-20T07:36:40.609Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": ".env",
               "DocumentMoniker": "C:\\Users\\Sho\\source\\repos\\zProject\\frontend\\.env",
               "RelativeDocumentMoniker": "frontend\\.env",
@@ -145,7 +160,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": ".env",
               "DocumentMoniker": "C:\\Users\\Sho\\source\\repos\\zProject\\.env",
               "RelativeDocumentMoniker": ".env",
@@ -157,7 +172,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "render.yaml",
               "DocumentMoniker": "C:\\Users\\Sho\\source\\repos\\zProject\\render.yaml",
               "RelativeDocumentMoniker": "render.yaml",
@@ -165,32 +180,34 @@
               "RelativeToolTip": "render.yaml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
-              "WhenOpened": "2025-07-20T07:13:13.689Z"
+              "WhenOpened": "2025-07-20T07:13:13.689Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "package.json",
               "DocumentMoniker": "C:\\Users\\Sho\\source\\repos\\zProject\\frontend\\package.json",
               "RelativeDocumentMoniker": "frontend\\package.json",
               "ToolTip": "C:\\Users\\Sho\\source\\repos\\zProject\\frontend\\package.json",
               "RelativeToolTip": "frontend\\package.json",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-07-20T07:01:33.04Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 4,
               "Title": "zProject.py",
               "DocumentMoniker": "C:\\Users\\Sho\\source\\repos\\zProject\\zProject.py",
               "RelativeDocumentMoniker": "zProject.py",
               "ToolTip": "C:\\Users\\Sho\\source\\repos\\zProject\\zProject.py",
               "RelativeToolTip": "zProject.py",
-              "ViewState": "AgIAAFoAAAAAAAAAAAAAAGcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
-              "WhenOpened": "2025-07-20T06:47:07.04Z"
+              "WhenOpened": "2025-07-20T06:47:07.04Z",
+              "EditorCaption": ""
             }
           ]
         }
