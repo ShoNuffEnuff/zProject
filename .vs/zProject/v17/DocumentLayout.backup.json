@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\Sho\\source\\repos\\zProject\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{32F29DD0-06E6-4607-A188-6A7AF17870EB}|zProject.pyproj|C:\\Users\\Sho\\source\\repos\\zProject\\render.yaml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{32F29DD0-06E6-4607-A188-6A7AF17870EB}|zProject.pyproj|solutionrelative:render.yaml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32F29DD0-06E6-4607-A188-6A7AF17870EB}|zProject.pyproj|C:\\Users\\Sho\\source\\repos\\zProject\\wsgi.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{32F29DD0-06E6-4607-A188-6A7AF17870EB}|zProject.pyproj|solutionrelative:wsgi.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{32F29DD0-06E6-4607-A188-6A7AF17870EB}|zProject.pyproj|C:\\Users\\Sho\\source\\repos\\zProject\\requirements.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{32F29DD0-06E6-4607-A188-6A7AF17870EB}|zProject.pyproj|solutionrelative:requirements.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
@@ -31,10 +39,6 @@
       "RelativeMoniker": "D:0:0:{32F29DD0-06E6-4607-A188-6A7AF17870EB}|zProject.pyproj|solutionrelative:.env||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{32F29DD0-06E6-4607-A188-6A7AF17870EB}|zProject.pyproj|C:\\Users\\Sho\\source\\repos\\zProject\\render.yaml||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{32F29DD0-06E6-4607-A188-6A7AF17870EB}|zProject.pyproj|solutionrelative:render.yaml||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{BEC1AF4D-7070-47DE-541E-D6A8B557E3AB}|C:\\Users\\Sho\\source\\repos\\zProject\\frontend|C:\\Users\\Sho\\source\\repos\\zProject\\frontend\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{BEC1AF4D-7070-47DE-541E-D6A8B557E3AB}|C:\\Users\\Sho\\source\\repos\\zProject\\frontend|solutionrelative:frontend\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
@@ -46,7 +50,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 11,
           "Children": [
             {
               "$type": "Bookmark",
@@ -66,7 +70,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
+              "Title": "wsgi.py",
+              "DocumentMoniker": "C:\\Users\\Sho\\source\\repos\\zProject\\wsgi.py",
+              "RelativeDocumentMoniker": "wsgi.py",
+              "ToolTip": "C:\\Users\\Sho\\source\\repos\\zProject\\wsgi.py",
+              "RelativeToolTip": "wsgi.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-07-20T09:37:33.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "requirements.txt",
               "DocumentMoniker": "C:\\Users\\Sho\\source\\repos\\zProject\\requirements.txt",
               "RelativeDocumentMoniker": "requirements.txt",
@@ -79,7 +96,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Register.js",
               "DocumentMoniker": "C:\\Users\\Sho\\source\\repos\\zProject\\frontend\\src\\pages\\Register.js",
               "RelativeDocumentMoniker": "frontend\\src\\pages\\Register.js",
@@ -91,7 +108,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "config.js",
               "DocumentMoniker": "C:\\Users\\Sho\\source\\repos\\zProject\\frontend\\src\\config.js",
               "RelativeDocumentMoniker": "frontend\\src\\config.js",
@@ -103,7 +120,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Login.js",
               "DocumentMoniker": "C:\\Users\\Sho\\source\\repos\\zProject\\frontend\\src\\pages\\Login.js",
               "RelativeDocumentMoniker": "frontend\\src\\pages\\Login.js",
@@ -115,7 +132,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": ".env",
               "DocumentMoniker": "C:\\Users\\Sho\\source\\repos\\zProject\\frontend\\.env",
               "RelativeDocumentMoniker": "frontend\\.env",
@@ -127,7 +144,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": ".env",
               "DocumentMoniker": "C:\\Users\\Sho\\source\\repos\\zProject\\.env",
               "RelativeDocumentMoniker": ".env",
@@ -139,19 +156,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 0,
               "Title": "render.yaml",
               "DocumentMoniker": "C:\\Users\\Sho\\source\\repos\\zProject\\render.yaml",
               "RelativeDocumentMoniker": "render.yaml",
               "ToolTip": "C:\\Users\\Sho\\source\\repos\\zProject\\render.yaml",
               "RelativeToolTip": "render.yaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
-              "WhenOpened": "2025-07-20T07:13:13.689Z"
+              "WhenOpened": "2025-07-20T07:13:13.689Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "package.json",
               "DocumentMoniker": "C:\\Users\\Sho\\source\\repos\\zProject\\frontend\\package.json",
               "RelativeDocumentMoniker": "frontend\\package.json",
@@ -163,7 +181,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "zProject.py",
               "DocumentMoniker": "C:\\Users\\Sho\\source\\repos\\zProject\\zProject.py",
               "RelativeDocumentMoniker": "zProject.py",
@@ -171,8 +189,7 @@
               "RelativeToolTip": "zProject.py",
               "ViewState": "AgIAAFoAAAAAAAAAAAAAAGcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
-              "WhenOpened": "2025-07-20T06:47:07.04Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-20T06:47:07.04Z"
             }
           ]
         }
