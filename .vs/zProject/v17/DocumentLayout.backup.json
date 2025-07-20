@@ -3,36 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\Sho\\source\\repos\\zProject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{32F29DD0-06E6-4607-A188-6A7AF17870EB}|zProject.pyproj|C:\\Users\\Sho\\source\\repos\\zProject\\zProject.py||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{32F29DD0-06E6-4607-A188-6A7AF17870EB}|zProject.pyproj|solutionrelative:zProject.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sho\\source\\repos\\zProject\\frontend\\src\\pages\\Login.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:frontend\\src\\pages\\Login.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BEC1AF4D-7070-47DE-541E-D6A8B557E3AB}|C:\\Users\\Sho\\source\\repos\\zProject\\frontend|C:\\Users\\Sho\\source\\repos\\zProject\\frontend\\src\\pages\\register.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{BEC1AF4D-7070-47DE-541E-D6A8B557E3AB}|C:\\Users\\Sho\\source\\repos\\zProject\\frontend|solutionrelative:frontend\\src\\pages\\register.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sho\\source\\repos\\zProject\\frontend\\src\\pages\\Register.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:frontend\\src\\pages\\Register.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BEC1AF4D-7070-47DE-541E-D6A8B557E3AB}|C:\\Users\\Sho\\source\\repos\\zProject\\frontend|C:\\Users\\Sho\\source\\repos\\zProject\\frontend\\src\\pages\\login.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{BEC1AF4D-7070-47DE-541E-D6A8B557E3AB}|C:\\Users\\Sho\\source\\repos\\zProject\\frontend|solutionrelative:frontend\\src\\pages\\login.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sho\\source\\repos\\zProject\\frontend\\src\\config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:frontend\\src\\config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BEC1AF4D-7070-47DE-541E-D6A8B557E3AB}|C:\\Users\\Sho\\source\\repos\\zProject\\frontend|C:\\Users\\Sho\\source\\repos\\zProject\\frontend\\src\\config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{BEC1AF4D-7070-47DE-541E-D6A8B557E3AB}|C:\\Users\\Sho\\source\\repos\\zProject\\frontend|solutionrelative:frontend\\src\\config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sho\\source\\repos\\zProject\\frontend\\.env||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:frontend\\.env||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BEC1AF4D-7070-47DE-541E-D6A8B557E3AB}|C:\\Users\\Sho\\source\\repos\\zProject\\frontend|C:\\Users\\Sho\\source\\repos\\zProject\\frontend\\.env||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{BEC1AF4D-7070-47DE-541E-D6A8B557E3AB}|C:\\Users\\Sho\\source\\repos\\zProject\\frontend|solutionrelative:frontend\\.env||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sho\\source\\repos\\zProject\\.env||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:.env||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{32F29DD0-06E6-4607-A188-6A7AF17870EB}|zProject.pyproj|C:\\Users\\Sho\\source\\repos\\zProject\\.env||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{32F29DD0-06E6-4607-A188-6A7AF17870EB}|zProject.pyproj|solutionrelative:.env||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sho\\source\\repos\\zProject\\render.yaml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:render.yaml||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BEC1AF4D-7070-47DE-541E-D6A8B557E3AB}|C:\\Users\\Sho\\source\\repos\\zProject\\frontend|C:\\Users\\Sho\\source\\repos\\zProject\\frontend\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{BEC1AF4D-7070-47DE-541E-D6A8B557E3AB}|C:\\Users\\Sho\\source\\repos\\zProject\\frontend|solutionrelative:frontend\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sho\\source\\repos\\zProject\\frontend\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:frontend\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{32F29DD0-06E6-4607-A188-6A7AF17870EB}|zProject.pyproj|C:\\Users\\Sho\\source\\repos\\zProject\\render.yaml||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{32F29DD0-06E6-4607-A188-6A7AF17870EB}|zProject.pyproj|solutionrelative:render.yaml||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sho\\source\\repos\\zProject\\zProject.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:zProject.py||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,7 +42,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 11,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -74,31 +74,32 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "config.js",
               "DocumentMoniker": "C:\\Users\\Sho\\source\\repos\\zProject\\frontend\\src\\config.js",
               "RelativeDocumentMoniker": "frontend\\src\\config.js",
               "ToolTip": "C:\\Users\\Sho\\source\\repos\\zProject\\frontend\\src\\config.js",
               "RelativeToolTip": "frontend\\src\\config.js",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
               "WhenOpened": "2025-07-20T07:37:14.295Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Login.js",
               "DocumentMoniker": "C:\\Users\\Sho\\source\\repos\\zProject\\frontend\\src\\pages\\Login.js",
               "RelativeDocumentMoniker": "frontend\\src\\pages\\Login.js",
               "ToolTip": "C:\\Users\\Sho\\source\\repos\\zProject\\frontend\\src\\pages\\Login.js",
               "RelativeToolTip": "frontend\\src\\pages\\Login.js",
-              "ViewState": "AgIAACAAAAAAAAAAAAAAwDIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABkAAAAAAAAAAAAswCsAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-07-20T07:36:40.609Z"
+              "WhenOpened": "2025-07-20T07:36:40.609Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": ".env",
               "DocumentMoniker": "C:\\Users\\Sho\\source\\repos\\zProject\\frontend\\.env",
               "RelativeDocumentMoniker": "frontend\\.env",
@@ -110,7 +111,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": ".env",
               "DocumentMoniker": "C:\\Users\\Sho\\source\\repos\\zProject\\.env",
               "RelativeDocumentMoniker": ".env",
@@ -122,7 +123,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 5,
               "Title": "render.yaml",
               "DocumentMoniker": "C:\\Users\\Sho\\source\\repos\\zProject\\render.yaml",
               "RelativeDocumentMoniker": "render.yaml",
@@ -146,16 +147,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 7,
               "Title": "zProject.py",
               "DocumentMoniker": "C:\\Users\\Sho\\source\\repos\\zProject\\zProject.py",
               "RelativeDocumentMoniker": "zProject.py",
               "ToolTip": "C:\\Users\\Sho\\source\\repos\\zProject\\zProject.py",
               "RelativeToolTip": "zProject.py",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAACMAAABFAAAAAAAAAA==",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACMAAABFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
-              "WhenOpened": "2025-07-20T06:47:07.04Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-20T06:47:07.04Z"
             }
           ]
         }
