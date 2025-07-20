@@ -25,6 +25,7 @@
     <Compile Include="auth_routes.py" />
     <Compile Include="combat_engine.py" />
     <Compile Include="item.py" />
+    <Compile Include="models.py" />
     <Compile Include="monster.py" />
     <Compile Include="movement_engine.py" />
     <Compile Include="perception_engine.py" />

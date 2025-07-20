@@ -1,31 +1,23 @@
-import hashlib
-import uuid
-
-# In-memory user store (replace with DB in production)
-USER_STORE = {}
-
-def hash_password(password, salt=None):
-    if not salt:
-        salt = uuid.uuid4().hex
-    hash_obj = hashlib.sha256((password + salt).encode())
-    return hash_obj.hexdigest(), salt
+from werkzeug.security import generate_password_hash, check_password_hash
+from models import db, Player
 
 def register_user(username, password):
-    if username in USER_STORE:
+    if Player.query.filter_by(username=username).first():
         return False, "Username already exists."
-    hashed_pw, salt = hash_password(password)
-    USER_STORE[username] = {
-        "password": hashed_pw,
-        "salt": salt
-    }
+
+    hashed_pw = generate_password_hash(password)
+    new_user = Player(username=username, password=hashed_pw)
+
+    db.session.add(new_user)
+    db.session.commit()
+
     return True, "User registered successfully."
 
 def login_user(username, password):
-    user = USER_STORE.get(username)
+    user = Player.query.filter_by(username=username).first()
     if not user:
         return False, "User not found."
 
-    hashed_input, _ = hash_password(password, user["salt"])
-    if hashed_input == user["password"]:
+    if check_password_hash(user.password, password):
         return True, "Login successful."
     return False, "Incorrect password."
