@@ -33,6 +33,7 @@
     <Compile Include="routes.py" />
     <Compile Include="status_effect.py" />
     <Compile Include="user_auth.py" />
+    <Compile Include="wsgi.py" />
     <Compile Include="zProject.py" />
   </ItemGroup>
   <ItemGroup>
