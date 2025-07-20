@@ -1,0 +1,11 @@
+services:
+  - name: zProject-backend
+    type: web
+    runtime: python
+    buildCommand: pip install -r requirements.txt
+    startCommand: python zProject.py
+    envVars:
+      - key: DATABASE_URL
+        value: postgresql+psycopg2://neondb_owner:npg_vD1na5qAHOih@ep-red-hall-a7n48w7b-pooler.ap-southeast-2.aws.neon.tech/neondb?sslmode=require&channel_binding=require
+      - key: SECRET_KEY
+        value: your_super_secret_key
