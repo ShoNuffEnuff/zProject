@@ -11,7 +11,7 @@
       "RelativeMoniker": "D:0:0:{32F29DD0-06E6-4607-A188-6A7AF17870EB}|zProject.pyproj|solutionrelative:zProject.py||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BEC1AF4D-7070-47DE-541E-D6A8B557E3AB}|C:\\Users\\Sho\\source\\repos\\zProject\\frontend|c:\\users\\sho\\source\\repos\\zproject\\frontend\\src\\pages\\login.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "AbsoluteMoniker": "D:0:0:{BEC1AF4D-7070-47DE-541E-D6A8B557E3AB}|C:\\Users\\Sho\\source\\repos\\zProject\\frontend|C:\\Users\\Sho\\source\\repos\\zProject\\frontend\\src\\pages\\login.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{BEC1AF4D-7070-47DE-541E-D6A8B557E3AB}|C:\\Users\\Sho\\source\\repos\\zProject\\frontend|solutionrelative:frontend\\src\\pages\\login.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
@@ -72,7 +72,7 @@
               "RelativeDocumentMoniker": "requirements.txt",
               "ToolTip": "C:\\Users\\Sho\\source\\repos\\zProject\\requirements.txt",
               "RelativeToolTip": "requirements.txt",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
               "WhenOpened": "2025-07-20T08:53:17.927Z",
               "EditorCaption": ""
@@ -111,8 +111,7 @@
               "RelativeToolTip": "frontend\\src\\pages\\Login.js",
               "ViewState": "AgIAABkAAAAAAAAAAAAswCsAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-07-20T07:36:40.609Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-20T07:36:40.609Z"
             },
             {
               "$type": "Document",
@@ -172,8 +171,7 @@
               "RelativeToolTip": "zProject.py",
               "ViewState": "AgIAADkAAAAAAAAAAAAAACMAAABFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
-              "WhenOpened": "2025-07-20T06:47:07.04Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-20T06:47:07.04Z"
             }
           ]
         }
